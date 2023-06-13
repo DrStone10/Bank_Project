@@ -21,7 +21,7 @@
 * Documentation, Communication and write Clean & Readable code for 
 other developers for later use.
 
-##### strong understanding of these concepts:
+#### strong understanding of these concepts:
    * `Data manipilation & cleaning with Python`.
    * `Data manipilation & cleaning with SQL`.
    * Relational Databases and how they work.
